@@ -1,0 +1,3 @@
+# SimpleSignInView_withSwiftUI
+
+簡単なユーザ登録画面作成、汎用できそうなので残しておく
